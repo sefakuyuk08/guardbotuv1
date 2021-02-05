@@ -22,7 +22,7 @@ const yardım = new Discord.MessageEmbed()
 :white_small_square: **=**  \`!avatar\`:  **Avatarınızı Atar**
 
 `)
-.setImage("https://cdn.discordapp.com/attachments/729334114989375508/731237846173876294/OgunSert_Sefa.png")
+.setImage("https://cdn.discordapp.com/attachments/729334114989375508/731237846173876294/OgunSert_kobs.png")
 .setThumbnail(message.author.avatarURL())
 message.channel.send(yardım)
 
