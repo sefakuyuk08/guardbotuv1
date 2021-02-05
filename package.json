@@ -1,10 +1,10 @@
 {
-  "//1": "OgünSert",
-  "//2": "Kobs",
+  "//1": "sefaküyük",
+  "//2": "Sefa",
   "//3": "updating this file will download and update your packages",
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "KOBS CODE",
+  "description": "Sefa CODE",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
